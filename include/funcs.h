@@ -3,5 +3,6 @@
 
 void foo(void);
 
-void koo(void);
+
+void koo(int);
 #endif
